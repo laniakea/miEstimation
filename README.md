@@ -1,2 +1,2 @@
-# mi_estimation
-Estimation of Mutual Information
+# miEstimation
+Implement and improved estimator of Mutual Information MI(X,Y).
